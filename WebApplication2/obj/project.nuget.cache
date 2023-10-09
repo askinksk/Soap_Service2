@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RxjFrPN2mMo7QtT7SF9t2xbzetVSLkzEo1RPuqxDFOkn4uX0Td3Leyg5z5po4He53tX7Geq8RCiKGWg+PheHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\askin.kesik\\Desktop\\Soap Service\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\askin.kesik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
